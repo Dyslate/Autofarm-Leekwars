@@ -9,20 +9,15 @@ To install Autofarm-Leekwars, follow these steps:
 1. Clone the repository to your local machine:
 $ git clone https://github.com/your-username/Autofarm-Leekwars.git
 
-css
-Copy code
+
 
 2. Navigate to the project directory:
 $ cd Autofarm-Leekwars
 
-arduino
-Copy code
 
 3. Install the required dependencies using pip:
 $ pip install -r requirements.txt
 
-vbnet
-Copy code
 
 ## Usage
 

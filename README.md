@@ -1,8 +1,12 @@
 # Autofarm-Leekwars
 Small python script to automatize farming on the game Leekwars.
 
-python autofarm.py gui
+How to install:
+$ pip install -r requirements.txt
 
-or
 
-python autofarm.py
+How to run with gui:
+$ python autofarm.py gui
+
+How to run without gui:
+$ python autofarm.py

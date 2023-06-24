@@ -1,8 +1,8 @@
 # Autofarm-Leekwars
-Petit script en python avec interface graphique ou non pour faire ses combats sur le jeu leekwars.
+Small python script to automatize farming on the game Leekwars.
 
 python autofarm.py gui
 
-ou
+or
 
 python autofarm.py

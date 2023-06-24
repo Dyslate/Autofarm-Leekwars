@@ -42,7 +42,7 @@ The GUI will provide an interactive interface for configuring and running the au
 To run Autofarm-Leekwars without the GUI, use the following command:
 
 ```console
-$ python autofarm.py
+python autofarm.py
 ```
 
 
